@@ -1,4 +1,4 @@
-on:
+git on:
   push:
     branches: main
   registry_package:
